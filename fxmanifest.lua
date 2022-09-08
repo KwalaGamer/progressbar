@@ -1,9 +1,5 @@
 fx_version 'cerulean'
 game 'gta5'
-lua54 'yes'
-
-author 'Kwala#9191'
-version 'v1'
 
 ui_page('html/index.html') 
 
